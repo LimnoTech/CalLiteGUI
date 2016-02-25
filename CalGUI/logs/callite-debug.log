@@ -1,1 +1,52 @@
 2015-04-03 13:23:37,137 [main] DEBUG gov.ca.water.calgui.MainMenu - Problem loading splash screen: java.lang.NullPointerException
+2016-02-24 15:31:07,885 [main] DEBUG gov.ca.water.calgui.MainMenu - Problem loading splash screen: java.lang.NullPointerException
+2016-02-24 15:31:08,517 [main] DEBUG gov.ca.water.calgui.MainMenu - Could not build UI. java.lang.Exception: Invalid SwiXML Descriptor.
+2016-02-24 15:31:08,564 [main] DEBUG gov.ca.water.calgui.MainMenu - Problem reading table files. java.lang.NullPointerException
+2016-02-24 15:31:09,121 [main] DEBUG gov.ca.water.calgui.MainMenu - Exception reading in scenario file in constructor.java.lang.NullPointerException
+2016-02-24 15:31:09,121 [main] DEBUG gov.ca.water.calgui.MainMenu - Problem setting checkbox labels. java.lang.NullPointerException
+2016-02-24 15:31:09,424 [main] DEBUG gov.ca.water.calgui.MainMenu - Could not load schematic views. java.lang.NullPointerException
+2016-02-24 15:31:09,524 [main] DEBUG gov.ca.water.calgui.MainMenu - Could not load report controls.java.lang.NullPointerException
+2016-02-24 15:31:09,525 [main] DEBUG gov.ca.water.calgui.MainMenu - Problem with setting listeners java.lang.NullPointerException
+2016-02-24 15:45:08,070 [main] DEBUG gov.ca.water.calgui.MainMenu - Problem loading splash screen: java.lang.NullPointerException
+2016-02-24 15:45:08,569 [main] DEBUG gov.ca.water.calgui.MainMenu - Could not build UI. java.lang.Exception: Invalid SwiXML Descriptor.
+2016-02-24 15:45:08,614 [main] DEBUG gov.ca.water.calgui.MainMenu - Problem reading table files. java.lang.NullPointerException
+2016-02-24 15:45:08,827 [main] DEBUG gov.ca.water.calgui.MainMenu - Exception reading in scenario file in constructor.java.lang.NullPointerException
+2016-02-24 15:45:08,827 [main] DEBUG gov.ca.water.calgui.MainMenu - Problem setting checkbox labels. java.lang.NullPointerException
+2016-02-24 15:45:09,144 [main] DEBUG gov.ca.water.calgui.MainMenu - Could not load schematic views. java.lang.NullPointerException
+2016-02-24 15:45:09,233 [main] DEBUG gov.ca.water.calgui.MainMenu - Could not load report controls.java.lang.NullPointerException
+2016-02-24 15:45:09,234 [main] DEBUG gov.ca.water.calgui.MainMenu - Problem with setting listeners java.lang.NullPointerException
+2016-02-24 15:57:30,751 [main] DEBUG gov.ca.water.calgui.MainMenu - Problem loading splash screen: java.lang.NullPointerException
+2016-02-24 15:57:31,369 [main] DEBUG gov.ca.water.calgui.MainMenu - Could not build UI. java.lang.Exception: Invalid SwiXML Descriptor.
+2016-02-24 15:57:31,421 [main] DEBUG gov.ca.water.calgui.MainMenu - Problem reading table files. java.lang.NullPointerException
+2016-02-24 15:57:32,027 [main] DEBUG gov.ca.water.calgui.MainMenu - Exception reading in scenario file in constructor.java.lang.NullPointerException
+2016-02-24 15:57:32,028 [main] DEBUG gov.ca.water.calgui.MainMenu - Problem setting checkbox labels. java.lang.NullPointerException
+2016-02-24 15:57:32,325 [main] DEBUG gov.ca.water.calgui.MainMenu - Could not load schematic views. java.lang.NullPointerException
+2016-02-24 15:57:32,401 [main] DEBUG gov.ca.water.calgui.MainMenu - Could not load report controls.java.lang.NullPointerException
+2016-02-24 15:57:32,401 [main] DEBUG gov.ca.water.calgui.MainMenu - Problem with setting listeners java.lang.NullPointerException
+2016-02-24 15:58:06,395 [main] DEBUG gov.ca.water.calgui.MainMenu - Problem loading splash screen: java.lang.NullPointerException
+2016-02-24 15:58:06,885 [main] DEBUG gov.ca.water.calgui.MainMenu - Could not build UI. java.lang.Exception: Invalid SwiXML Descriptor.
+2016-02-24 15:58:06,933 [main] DEBUG gov.ca.water.calgui.MainMenu - Problem reading table files. java.lang.NullPointerException
+2016-02-24 15:58:07,134 [main] DEBUG gov.ca.water.calgui.MainMenu - Exception reading in scenario file in constructor.java.lang.NullPointerException
+2016-02-24 15:58:07,135 [main] DEBUG gov.ca.water.calgui.MainMenu - Problem setting checkbox labels. java.lang.NullPointerException
+2016-02-24 15:58:07,483 [main] DEBUG gov.ca.water.calgui.MainMenu - Could not load schematic views. java.lang.NullPointerException
+2016-02-24 15:58:07,562 [main] DEBUG gov.ca.water.calgui.MainMenu - Could not load report controls.java.lang.NullPointerException
+2016-02-24 15:58:07,562 [main] DEBUG gov.ca.water.calgui.MainMenu - Problem with setting listeners java.lang.NullPointerException
+2016-02-24 16:02:23,759 [main] DEBUG gov.ca.water.calgui.MainMenu - Problem loading splash screen: java.lang.NullPointerException
+2016-02-24 16:02:24,573 [main] DEBUG gov.ca.water.calgui.MainMenu - Could not build UI. java.lang.Exception: Invalid SwiXML Descriptor.
+2016-02-24 16:02:24,630 [main] DEBUG gov.ca.water.calgui.MainMenu - Problem reading table files. java.lang.NullPointerException
+2016-02-24 16:02:25,430 [main] DEBUG gov.ca.water.calgui.MainMenu - Exception reading in scenario file in constructor.java.lang.NullPointerException
+2016-02-24 16:02:25,431 [main] DEBUG gov.ca.water.calgui.MainMenu - Problem setting checkbox labels. java.lang.NullPointerException
+2016-02-24 16:02:25,755 [main] DEBUG gov.ca.water.calgui.MainMenu - Could not load schematic views. java.lang.NullPointerException
+2016-02-24 16:02:25,847 [main] DEBUG gov.ca.water.calgui.MainMenu - Could not load report controls.java.lang.NullPointerException
+2016-02-24 16:02:25,848 [main] DEBUG gov.ca.water.calgui.MainMenu - Problem with setting listeners java.lang.NullPointerException
+2016-02-24 16:06:12,836 [main] DEBUG gov.ca.water.calgui.MainMenu - Problem loading splash screen: java.lang.NullPointerException
+2016-02-24 16:06:13,050 [main] DEBUG gov.ca.water.calgui.MainMenu - Could not build UI. java.lang.Exception: Invalid SwiXML Descriptor.
+2016-02-24 16:06:13,083 [main] DEBUG gov.ca.water.calgui.MainMenu - Problem reading table files. java.lang.NullPointerException
+2016-02-24 16:06:13,084 [main] DEBUG gov.ca.water.calgui.MainMenu - Problem reading table files. java.lang.NullPointerException
+2016-02-24 16:06:13,084 [main] DEBUG gov.ca.water.calgui.MainMenu - Problem reading table files. java.lang.NullPointerException
+2016-02-24 16:06:14,004 [main] DEBUG gov.ca.water.calgui.MainMenu - Exception reading in scenario file in constructor.java.lang.NullPointerException
+2016-02-24 16:06:14,005 [main] DEBUG gov.ca.water.calgui.MainMenu - Problem setting checkbox labels. java.lang.NullPointerException
+2016-02-24 16:06:14,330 [main] DEBUG gov.ca.water.calgui.MainMenu - Could not load schematic views. java.lang.NullPointerException
+2016-02-24 16:06:14,412 [main] DEBUG gov.ca.water.calgui.MainMenu - Could not load report controls.java.lang.NullPointerException
+2016-02-24 16:06:14,412 [main] DEBUG gov.ca.water.calgui.MainMenu - Problem with setting listeners java.lang.NullPointerException
+2016-02-24 16:07:13,047 [main] DEBUG gov.ca.water.calgui.MainMenu - Problem loading splash screen: java.lang.NullPointerException
