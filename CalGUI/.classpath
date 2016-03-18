@@ -4,6 +4,7 @@
 	<classpathentry excluding="**/.svn/|.svn/" kind="src" path="src"/>
 	<classpathentry kind="src" path="log4j"/>
 	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="lib/pdf-renderer.jar"/>
 	<classpathentry kind="lib" path="lib/crimson.jar"/>
 	<classpathentry kind="lib" path="lib/dom4j-1.6.1.jar"/>
@@ -50,11 +51,11 @@
 	<classpathentry kind="lib" path="lib/commons-io-2.1.jar"/>
 	<classpathentry kind="lib" path="lib/runtime.jar"/>
 	<classpathentry kind="lib" path="lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="lib/javax.mail.jar"/>
 	<classpathentry kind="lib" path="lib/calsim.gui.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="lib" path="lib/commons-io-2.4.jar"/>
 	<classpathentry kind="lib" path="lib/jxbrowser-4.5.jar"/>
 	<classpathentry kind="lib" path="lib/jxbrowser-win-4.5.jar"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
